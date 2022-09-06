@@ -301,6 +301,7 @@ section.portfolio .container .row-1 .col-1 .card-1 .overlay p {
 }
 section.portfolio .container .row-1 .col-1 .card-1:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 section.portfolio .container .row-1 .col-1 .card-2 {
   position: relative;
@@ -340,6 +341,7 @@ section.portfolio .container .row-1 .col-1 .card-2 .overlay p {
 }
 section.portfolio .container .row-1 .col-1 .card-2:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 section.portfolio .container .row-1 .col-1 .card-3 {
   position: relative;
@@ -379,6 +381,7 @@ section.portfolio .container .row-1 .col-1 .card-3 .overlay p {
 }
 section.portfolio .container .row-1 .col-1 .card-3:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 section.portfolio .container .row-2 {
   width: 100%;
@@ -430,6 +433,7 @@ section.portfolio .container .row-2 .col-2 .card-4 .overlay p {
 }
 section.portfolio .container .row-2 .col-2 .card-4:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 section.portfolio .container .row-2 .col-2 .card-5 {
   position: relative;
@@ -469,6 +473,7 @@ section.portfolio .container .row-2 .col-2 .card-5 .overlay p {
 }
 section.portfolio .container .row-2 .col-2 .card-5:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 section.portfolio .container .row-2 .col-2 .card-6 {
   position: relative;
@@ -508,6 +513,7 @@ section.portfolio .container .row-2 .col-2 .card-6 .overlay p {
 }
 section.portfolio .container .row-2 .col-2 .card-6:hover .overlay {
   opacity: 0.8;
+  cursor: pointer;
 }
 
 footer {
